@@ -8,5 +8,8 @@ The user can enter in three different tip percentage amounts along with a price,
 The the background has a picture now. 
 # Challenges
 Working on the settings view, still will put in extra work on it. 
+tipbit.recording.gif
+
+
 
 
