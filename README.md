@@ -9,7 +9,8 @@ The the background has a picture now.
 # Challenges
 Working on the settings view, still will put in extra work on it. 
 
-tipbit.recording.gif
+<img src="http://i.imgur.com/7z3tzvG.gif">
+
 
 
 
